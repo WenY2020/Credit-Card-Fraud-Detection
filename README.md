@@ -3,3 +3,5 @@
 How to detect credit card fraud by Machine Learning algorithms?
 
  The project aim is to develop a model to predict the new transaction is fraud or not with some features of the transaction known.
+ 
+ Two algorithms are used in this project: Deep Neural Network and Random Forest
