@@ -15,6 +15,6 @@ e.g. definition, correlation, visualization
 ### 4. Data Prepration
 Feature engineering
 ### 5. Data Modelling
-Model Candidates
+Model Candidates and Feature Candidates
 ### 6. Model Evaluation and Implementation
 Evaluate the model, what business can take
