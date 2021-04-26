@@ -6,6 +6,8 @@
  
  Two Machine Learning algorithms are used in this project: Deep Neural Network and Random Forest.
  
+## General Work Frame:
+ 
 ### 1. Business Understanding
 Background, Motivation, Deliverables
 ### 2. Import data 
