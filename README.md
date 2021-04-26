@@ -18,6 +18,6 @@ e.g. definition, correlation, visualization
 Feature engineering
 ### 5. Data Modelling
 Model Candidates and Feature Candidates, Evaluate the model
-### 6. Implementation
+### 6. Implementation and or Presentation
 what business can take
 
