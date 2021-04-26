@@ -15,7 +15,7 @@ What, How
 ### 3. Data Understanding 
 e.g. definition, correlation, visualization
 ### 4. Data Prepration
-Feature engineering
+Data Processing, Feature engineering
 ### 5. Data Modelling
 Model Candidates and Feature Candidates, Evaluate the model
 ### 6. Implementation and/or Presentation
